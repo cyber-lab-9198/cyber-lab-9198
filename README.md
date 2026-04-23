@@ -36,9 +36,6 @@ It represents the kind of work I want to be known for:
 - turning raw alerts into structured workflows
 - learning defense by building environments that can actually be attacked
 
-> I do not want my GitHub to look like a copied badge wall.  
-> I want it to look like an operator workspace.
-
 ---
 
 ## <img src="https://cdn-icons-png.flaticon.com/512/6295/6295417.png" width="24" /> Active Tracks
