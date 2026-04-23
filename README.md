@@ -1,82 +1,69 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&pause=1000&color=7EE787&center=true&vCenter=true&width=780&lines=Hi%2C+I'm+Trieu+Vy;Cybersecurity+Lab+Builder;Blue+Team+%26+Automation+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&pause=900&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Trieu+Vy;Monitoring+Signals+Inside+Cyber+Labs;Building+Deception%2C+Detection%2C+Automation" alt="Typing SVG" />
 
 </div>
 
-<table align="center">
-  <tr>
-    <td width="58%" valign="top">
-
-### Building security labs that feel real
-
-I focus on hands-on cybersecurity projects around deception labs, defensive monitoring, and workflow automation.  
-Most of what I build is designed to answer one question:
-
-> How can we make detection, response, and visibility feel practical instead of theoretical?
-
-    </td>
-    <td width="42%" valign="top">
-
 ```text
-Role      : Cybersecurity Learner
-Location  : Ho Chi Minh City, Vietnam
-Focus     : Deception | Detection | Automation
-Lab Stack : VMware | Linux | n8n | Cowrie
-Goal      : Build security projects worth showing
+┌──────────────────────────────────────────────────────────────────────────────┐
+│ STATUS      : ONLINE                                                        │
+│ OPERATOR    : TRIEU VY                                                      │
+│ ROLE        : CYBERSECURITY LEARNER                                         │
+│ ZONE        : HO CHI MINH CITY, VIETNAM                                     │
+│ MISSION     : BUILD HANDS-ON CYBER LABS WITH REALISTIC DEFENDER WORKFLOWS   │
+└──────────────────────────────────────────────────────────────────────────────┘
 ```
-
-  </td>
-  </tr>
-</table>
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://azyprofile.netlify.app/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/infotrieuvy)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azynora04)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:trieuvy9198@gmail.com)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-07111F?style=for-the-badge&logo=googlechrome&logoColor=00F7FF)](https://azyprofile.netlify.app/)
+[![Facebook](https://img.shields.io/badge/FACEBOOK-0A0F1A?style=for-the-badge&logo=facebook&logoColor=4EA1FF)](https://www.facebook.com/infotrieuvy)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-08131F?style=for-the-badge&logo=linkedin&logoColor=2AA8FF)](https://www.linkedin.com/in/azynora04)
+[![Gmail](https://img.shields.io/badge/GMAIL-140B0B?style=for-the-badge&logo=gmail&logoColor=FF5F56)](mailto:trieuvy9198@gmail.com)
 
 </div>
 
 ---
 
-## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3V2b3F4dGQ4M3VhcnNuN3d5NXBxYW04aDNtZGNwMWM4cnJ3MmMwNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3vRfNA1p0rvhMSvS/giphy.gif" width="28" /> About This Portfolio
+## <img src="https://cdn-icons-png.flaticon.com/512/2716/2716650.png" width="24" /> Threat Brief
 
-This repository acts like a compact portfolio page for my cybersecurity journey.  
-Instead of listing tools without context, I want to show the kind of environments and workflows I care about:
+This repository is designed like a dark portfolio console.
+It represents the kind of work I want to be known for:
 
-- Multi-VM cyber labs built in VMware
-- Honeypot and deception experiments with Cowrie
-- Monitoring and detection workflows using blue-team tooling
-- Automation pipelines with n8n for alert handling and enrichment
-- Practical server and infrastructure work with Linux, Nginx, and Apache
+- building isolated cyber labs in VMware
+- exposing and monitoring deceptive services
+- observing attacker behavior through telemetry
+- turning raw alerts into structured workflows
+- learning defense by building environments that can actually be attacked
+
+> I do not want my GitHub to look like a copied badge wall.  
+> I want it to look like an operator workspace.
 
 ---
 
-## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODBmMjJtbWRnMjB5MTdpM2pycGV2NWh1YnY4eWl4cm8xazQ5cWhsYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif" width="28" /> Core Focus
+## <img src="https://cdn-icons-png.flaticon.com/512/6295/6295417.png" width="24" /> Active Tracks
 
 <table>
   <tr>
     <td width="33%" valign="top">
 
-### Deception Labs
+### Deception
 
-Designing lab environments that simulate attacker interaction and capture useful telemetry.
-
-  </td>
-    <td width="33%" valign="top">
-
-### Defensive Visibility
-
-Working with traffic, logs, and alerts to understand what happened and why it matters.
+Working on lab environments that attract interaction, log behavior, and create useful defender visibility.
 
   </td>
     <td width="33%" valign="top">
 
-### Security Automation
+### Detection
 
-Connecting detections to workflows with n8n so alerts can become structured response steps.
+Analyzing logs, traffic, and service activity to understand what happened inside the lab and how it should be detected.
+
+  </td>
+    <td width="33%" valign="top">
+
+### Automation
+
+Using n8n and scripting to transform alerts into cleaner operational workflows and richer incident context.
 
   </td>
   </tr>
@@ -84,73 +71,77 @@ Connecting detections to workflows with n8n so alerts can become structured resp
 
 ---
 
-## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXE4enQ5MnE2MXYzY3k4aG9saGFldTNhZXBycDdkMmd4cmNoeXFlNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13HgwGsXF0aiGY/giphy.gif" width="28" /> Toolbox
+## <img src="https://cdn-icons-png.flaticon.com/512/3523/3523887.png" width="24" /> Arsenal
 
-### Security And Monitoring
+### Recon / Monitoring / Defense
 
-[![Cowrie](https://img.shields.io/badge/Cowrie-111827?style=for-the-badge&logoColor=white)](https://github.com/cowrie/cowrie)
-[![Wazuh](https://img.shields.io/badge/Wazuh-0266C8?style=for-the-badge&logoColor=white)](https://wazuh.com/)
-[![Suricata](https://img.shields.io/badge/Suricata-EF3B2D?style=for-the-badge&logoColor=white)](https://suricata.io/)
-[![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)](https://www.wireshark.org/)
-[![Nmap](https://img.shields.io/badge/Nmap-214478?style=for-the-badge&logoColor=white)](https://nmap.org/)
+[![Cowrie](https://img.shields.io/badge/COWRIE-05070D?style=for-the-badge&logoColor=00F7FF)](https://github.com/cowrie/cowrie)
+[![Wazuh](https://img.shields.io/badge/WAZUH-071425?style=for-the-badge&logoColor=3AA3FF)](https://wazuh.com/)
+[![Suricata](https://img.shields.io/badge/SURICATA-180B0B?style=for-the-badge&logoColor=FF6B57)](https://suricata.io/)
+[![Wireshark](https://img.shields.io/badge/WIRESHARK-071721?style=for-the-badge&logo=wireshark&logoColor=58C4FF)](https://www.wireshark.org/)
+[![Nmap](https://img.shields.io/badge/NMAP-09131F?style=for-the-badge&logoColor=7EB6FF)](https://nmap.org/)
 
-### Infrastructure And Servers
+### Servers / Platforms / Systems
 
-[![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)](https://www.vmware.com/)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://kernel.org/)
-[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
-[![CentOS](https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=centos&logoColor=white)](https://www.centos.org/)
-[![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)](https://nginx.org/)
-[![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)](https://httpd.apache.org/)
+[![VMware](https://img.shields.io/badge/VMWARE-111827?style=for-the-badge&logo=vmware&logoColor=FF9D3F)](https://www.vmware.com/)
+[![Docker](https://img.shields.io/badge/DOCKER-07131C?style=for-the-badge&logo=docker&logoColor=57C7FF)](https://www.docker.com/)
+[![Linux](https://img.shields.io/badge/LINUX-151515?style=for-the-badge&logo=linux&logoColor=F7D046)](https://kernel.org/)
+[![Ubuntu](https://img.shields.io/badge/UBUNTU-1A0F0B?style=for-the-badge&logo=ubuntu&logoColor=FF7A30)](https://ubuntu.com/)
+[![CentOS](https://img.shields.io/badge/CENTOS-110C1D?style=for-the-badge&logo=centos&logoColor=C38DFF)](https://www.centos.org/)
+[![Nginx](https://img.shields.io/badge/NGINX-07190C?style=for-the-badge&logo=nginx&logoColor=4DFF88)](https://nginx.org/)
+[![Apache](https://img.shields.io/badge/APACHE-180B10?style=for-the-badge&logo=apache&logoColor=FF5B7F)](https://httpd.apache.org/)
 
-### Programming And Automation
+### Code / Workflow / Automation
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
-[![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)](https://n8n.io/)
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cyber-lab-9198)
+[![Python](https://img.shields.io/badge/PYTHON-07131A?style=for-the-badge&logo=python&logoColor=5AB0FF)](https://www.python.org/)
+[![JavaScript](https://img.shields.io/badge/JAVASCRIPT-17140A?style=for-the-badge&logo=javascript&logoColor=FFE45C)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Node.js](https://img.shields.io/badge/NODE.JS-07150A?style=for-the-badge&logo=nodedotjs&logoColor=7DFF76)](https://nodejs.org/)
+[![n8n](https://img.shields.io/badge/N8N-1A0C16?style=for-the-badge&logo=n8n&logoColor=FF4FA3)](https://n8n.io/)
+[![Git](https://img.shields.io/badge/GIT-1A0E0A?style=for-the-badge&logo=git&logoColor=FF7B54)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GITHUB-0A0F18?style=for-the-badge&logo=github&logoColor=E6EDF3)](https://github.com/cyber-lab-9198)
 
 ---
 
-## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnZ5Yzl2dWR3dWxsd2NiemxmbDVjc3dhd2YwY3QwZmNnNTNsMzM3NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JIX9t2j0ZTN9S/giphy.gif" width="28" /> What I'm Building
+## <img src="https://cdn-icons-png.flaticon.com/512/3064/3064197.png" width="24" /> Operation Board
 
 ### Cyber Deception Lab
 
-A multi-VM environment designed to simulate attacker behavior, expose services intentionally, collect telemetry, and study how detections can be improved from a defender viewpoint.
+A multi-VM environment where services are exposed on purpose, behavior is captured, and attacker interaction becomes useful training data for the defender side.
 
-### n8n Security Workflows
+### n8n Security Pipelines
 
-Automation flows that take alerts or honeypot events, enrich them, structure them, and turn them into cleaner incident-style outputs.
+Automation workflows that take honeypot events or detections, enrich them, classify them, and move them toward actionable outputs.
 
-### Blue Team Practice Environment
+### Defensive Experimentation
 
-A space to test visibility, logging, service behavior, and response thinking with tools that are commonly seen in real defensive environments.
-
----
-
-## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2dmbWp5NTAybXo3M3Q1OW9kZ2QwYnY3a2F5N2xyOHpxMDN6YWdzNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/f3iwJFOVOwuy7K6FFw/giphy.gif" width="28" /> Current Direction
-
-- Building portfolio projects that show more than just tool names
-- Turning lab activity into documented case studies
-- Connecting infrastructure work with cybersecurity use cases
-- Making my GitHub profile feel like a real security portfolio, not a copied template
+A controlled space for testing visibility, logs, service behavior, and incident thinking with practical blue-team tooling.
 
 ---
 
-## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2dvYmR1NmxkY3lpODlnZzg2c2cxN2t0MzljZXljZ2h0M2x5ZG0xNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif" width="28" /> Stats
+## <img src="https://cdn-icons-png.flaticon.com/512/2092/2092663.png" width="24" /> Mission Objectives
+
+- turn lab projects into case-study quality portfolio work
+- combine infrastructure skills with security use cases
+- document more, not just build more
+- make each repo feel like part of a coherent security operator identity
+
+---
+
+## <img src="https://cdn-icons-png.flaticon.com/512/6295/6295415.png" width="24" /> Telemetry
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cyber-lab-9198&show_icons=true&theme=transparent&title_color=7EE787&text_color=C9D1D9&icon_color=58A6FF&border_color=30363D)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cyber-lab-9198&layout=compact&theme=transparent&title_color=7EE787&text_color=C9D1D9&border_color=30363D)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cyber-lab-9198&show_icons=true&theme=transparent&title_color=00F7FF&text_color=9FB3C8&icon_color=7EE787&border_color=1F2A38)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cyber-lab-9198&layout=compact&theme=transparent&title_color=00F7FF&text_color=9FB3C8&border_color=1F2A38)
 
 </div>
 
 ---
 
-## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHE5NmMyaWkyM2trbzhvbWthZDJjMGV5NzFpNnp2ZWh1eWZobmI3NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7aD2saalBwwftBIY/giphy.gif" width="28" /> Closing Note
+## <img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="24" /> Final Note
 
-> Learn by building. Defend by understanding. Improve by documenting.
+```text
+learn by building
+defend by understanding
+improve by documenting
+```
