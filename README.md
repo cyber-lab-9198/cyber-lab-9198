@@ -138,6 +138,16 @@ A controlled space for testing visibility, logs, service behavior, and incident 
 
 ---
 
+## <img src="https://cdn-icons-png.flaticon.com/512/8676/8676441.png" width="24" /> Activity Stream
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/traitimtrongvag/traitimtrongvag/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
 ## <img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="24" /> Final Note
 
 ```text
