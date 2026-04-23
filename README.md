@@ -6,11 +6,11 @@
 
 ```text
 ┌──────────────────────────────────────────────────────────────────────────────┐
-│ STATUS      : ONLINE                                                        │
-│ OPERATOR    : TRIEU VY                                                      │
-│ ROLE        : CYBERSECURITY LEARNER                                         │
-│ ZONE        : HO CHI MINH CITY, VIETNAM                                     │
-│ MISSION     : BUILD HANDS-ON CYBER LABS WITH REALISTIC DEFENDER WORKFLOWS   │
+│ STATUS      : ONLINE                                                         │
+│ OPERATOR    : TRIEU VY                                                       │
+│ ROLE        : CYBERSECURITY LEARNER                                          │
+│ ZONE        : HO CHI MINH CITY, VIETNAM                                      │
+│ MISSION     : BUILD HANDS-ON CYBER LABS WITH REALISTIC DEFENDER WORKFLOWS    │
 └──────────────────────────────────────────────────────────────────────────────┘
 ```
 
