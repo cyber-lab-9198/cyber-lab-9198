@@ -16,10 +16,10 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-07111F?style=for-the-badge&logo=googlechrome&logoColor=00F7FF)](https://azyprofile.netlify.app/)
-[![Facebook](https://img.shields.io/badge/FACEBOOK-0A0F1A?style=for-the-badge&logo=facebook&logoColor=4EA1FF)](https://www.facebook.com/infotrieuvy)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-08131F?style=for-the-badge&logo=linkedin&logoColor=2AA8FF)](https://www.linkedin.com/in/azynora04)
-[![Gmail](https://img.shields.io/badge/GMAIL-140B0B?style=for-the-badge&logo=gmail&logoColor=FF5F56)](mailto:trieuvy9198@gmail.com)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-16405C?style=for-the-badge&logo=googlechrome&logoColor=9BE7FF)](https://azyprofile.netlify.app/)
+[![Facebook](https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=FFFFFF)](https://www.facebook.com/infotrieuvy)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](https://www.linkedin.com/in/azynora04)
+[![Gmail](https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=FFFFFF)](mailto:trieuvy9198@gmail.com)
 
 </div>
 
@@ -72,30 +72,30 @@ Using n8n and scripting to transform alerts into cleaner operational workflows a
 
 ### Recon / Monitoring / Defense
 
-[![Cowrie](https://img.shields.io/badge/COWRIE-05070D?style=for-the-badge&logoColor=00F7FF)](https://github.com/cowrie/cowrie)
-[![Wazuh](https://img.shields.io/badge/WAZUH-071425?style=for-the-badge&logoColor=3AA3FF)](https://wazuh.com/)
-[![Suricata](https://img.shields.io/badge/SURICATA-180B0B?style=for-the-badge&logoColor=FF6B57)](https://suricata.io/)
-[![Wireshark](https://img.shields.io/badge/WIRESHARK-071721?style=for-the-badge&logo=wireshark&logoColor=58C4FF)](https://www.wireshark.org/)
-[![Nmap](https://img.shields.io/badge/NMAP-09131F?style=for-the-badge&logoColor=7EB6FF)](https://nmap.org/)
+[![Cowrie](https://img.shields.io/badge/COWRIE-16384F?style=for-the-badge&logoColor=8DEBFF)](https://github.com/cowrie/cowrie)
+[![Wazuh](https://img.shields.io/badge/WAZUH-1D5D86?style=for-the-badge&logoColor=AEDBFF)](https://wazuh.com/)
+[![Suricata](https://img.shields.io/badge/SURICATA-7A3229?style=for-the-badge&logoColor=FFD0C8)](https://suricata.io/)
+[![Wireshark](https://img.shields.io/badge/WIRESHARK-1D628E?style=for-the-badge&logo=wireshark&logoColor=C2ECFF)](https://www.wireshark.org/)
+[![Nmap](https://img.shields.io/badge/NMAP-2A4E78?style=for-the-badge&logoColor=C6DEFF)](https://nmap.org/)
 
 ### Servers / Platforms / Systems
 
-[![VMware](https://img.shields.io/badge/VMWARE-111827?style=for-the-badge&logo=vmware&logoColor=FF9D3F)](https://www.vmware.com/)
-[![Docker](https://img.shields.io/badge/DOCKER-07131C?style=for-the-badge&logo=docker&logoColor=57C7FF)](https://www.docker.com/)
-[![Linux](https://img.shields.io/badge/LINUX-151515?style=for-the-badge&logo=linux&logoColor=F7D046)](https://kernel.org/)
-[![Ubuntu](https://img.shields.io/badge/UBUNTU-1A0F0B?style=for-the-badge&logo=ubuntu&logoColor=FF7A30)](https://ubuntu.com/)
-[![CentOS](https://img.shields.io/badge/CENTOS-110C1D?style=for-the-badge&logo=centos&logoColor=C38DFF)](https://www.centos.org/)
-[![Nginx](https://img.shields.io/badge/NGINX-07190C?style=for-the-badge&logo=nginx&logoColor=4DFF88)](https://nginx.org/)
-[![Apache](https://img.shields.io/badge/APACHE-180B10?style=for-the-badge&logo=apache&logoColor=FF5B7F)](https://httpd.apache.org/)
+[![VMware](https://img.shields.io/badge/VMWARE-334155?style=for-the-badge&logo=vmware&logoColor=FFB86B)](https://www.vmware.com/)
+[![Docker](https://img.shields.io/badge/DOCKER-1E4F77?style=for-the-badge&logo=docker&logoColor=AEE7FF)](https://www.docker.com/)
+[![Linux](https://img.shields.io/badge/LINUX-3A3A3A?style=for-the-badge&logo=linux&logoColor=FFE07A)](https://kernel.org/)
+[![Ubuntu](https://img.shields.io/badge/UBUNTU-8B4526?style=for-the-badge&logo=ubuntu&logoColor=FFD5BF)](https://ubuntu.com/)
+[![CentOS](https://img.shields.io/badge/CENTOS-4B3C74?style=for-the-badge&logo=centos&logoColor=E0C8FF)](https://www.centos.org/)
+[![Nginx](https://img.shields.io/badge/NGINX-1F5E33?style=for-the-badge&logo=nginx&logoColor=B9FFD0)](https://nginx.org/)
+[![Apache](https://img.shields.io/badge/APACHE-7A3045?style=for-the-badge&logo=apache&logoColor=FFD0DA)](https://httpd.apache.org/)
 
 ### Code / Workflow / Automation
 
-[![Python](https://img.shields.io/badge/PYTHON-07131A?style=for-the-badge&logo=python&logoColor=5AB0FF)](https://www.python.org/)
-[![JavaScript](https://img.shields.io/badge/JAVASCRIPT-17140A?style=for-the-badge&logo=javascript&logoColor=FFE45C)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Node.js](https://img.shields.io/badge/NODE.JS-07150A?style=for-the-badge&logo=nodedotjs&logoColor=7DFF76)](https://nodejs.org/)
-[![n8n](https://img.shields.io/badge/N8N-1A0C16?style=for-the-badge&logo=n8n&logoColor=FF4FA3)](https://n8n.io/)
-[![Git](https://img.shields.io/badge/GIT-1A0E0A?style=for-the-badge&logo=git&logoColor=FF7B54)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/GITHUB-0A0F18?style=for-the-badge&logo=github&logoColor=E6EDF3)](https://github.com/cyber-lab-9198)
+[![Python](https://img.shields.io/badge/PYTHON-1F4E78?style=for-the-badge&logo=python&logoColor=FFD964)](https://www.python.org/)
+[![JavaScript](https://img.shields.io/badge/JAVASCRIPT-6B5C16?style=for-the-badge&logo=javascript&logoColor=FFF3A8)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Node.js](https://img.shields.io/badge/NODE.JS-245C2E?style=for-the-badge&logo=nodedotjs&logoColor=C8FFC3)](https://nodejs.org/)
+[![n8n](https://img.shields.io/badge/N8N-7A2F5C?style=for-the-badge&logo=n8n&logoColor=FFC2E0)](https://n8n.io/)
+[![Git](https://img.shields.io/badge/GIT-8A4323?style=for-the-badge&logo=git&logoColor=FFD1BD)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GITHUB-374151?style=for-the-badge&logo=github&logoColor=F9FAFB)](https://github.com/cyber-lab-9198)
 
 ---
 
